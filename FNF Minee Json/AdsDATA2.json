@@ -15,12 +15,12 @@
     "ImageADS": {
         "instanceID": 0
     },
-    "EnableOnerNative": 1,
+    "EnableOnerNative": 0,
     "NativeAdsUrl": "https://raw.githubusercontent.com/saiddias068/FNF-Json/main/FNF%20Minee%20Json/More%20Game/i5.PNG",
     "NativeImageUrl": "https://raw.githubusercontent.com/saiddias068/FNF-Json/main/FNF%20Minee%20Json/More%20Game/i5.PNG",
     "NativeDescription": "SSSSSSSSSSSSSSSSSS",
     "NativeTitle": "QQQQQQQQQQQQQQQQQQQQQQQQ",
     "NativeImageADS": {
-        "instanceID": 1
+        "instanceID": 0
     }
 }
