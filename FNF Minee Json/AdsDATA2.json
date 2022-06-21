@@ -1,0 +1,26 @@
+{
+    "Virtion": "v1.0.0",
+    "OfferWellappKey": "",
+    "EnableOfferWell": 1,
+    "EnableAdsTestMode": 0,
+    "appKey": "",
+    "bannerAdUnit": "",
+    "interstitialAdUnit": "",
+    "rewardedVideoAdUnit": "",
+    "EnableOnerAds": 1,
+    "AdsUrl": "",
+    "ImageUrl": "h",
+    "Description": "",
+    "Title": "",
+    "ImageADS": {
+        "instanceID": 0
+    },
+    "EnableOnerNative": 1,
+    "NativeAdsUrl": "",
+    "NativeImageUrl": "",
+    "NativeDescription": "",
+    "NativeTitle": "",
+    "NativeImageADS": {
+        "instanceID": 0
+    }
+}
