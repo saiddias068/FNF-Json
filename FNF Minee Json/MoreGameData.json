@@ -3,15 +3,15 @@
     "Data": [
         {
              "Name": "",
-            "IconUrl": " ",
-            "GameUrl": " ",
-            "Stars": 5
+            "IconUrl": "https://raw.githubusercontent.com/saiddias068/FNF-Json/main/FNF%20Minee%20Json/ADS/Mommyads.jpg",
+            "GameUrl": "https://raw.githubusercontent.com/saiddias068/FNF-Json/main/FNF%20Minee%20Json/ADS/Mommyads.jpg",
+            "Stars": 4    
         } 
         ,{
           
             "Name": "",
-            "IconUrl": " ",
-            "GameUrl": " ",
+            "IconUrl": "https://raw.githubusercontent.com/saiddias068/FNF-Json/main/FNF%20Minee%20Json/ADS/Mommyads.jpg",
+            "GameUrl": "https://raw.githubusercontent.com/saiddias068/FNF-Json/main/FNF%20Minee%20Json/ADS/Mommyads.jpg",
             "Stars": 5
         } 
     ]
