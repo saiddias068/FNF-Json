@@ -7,7 +7,7 @@
     "bannerAdUnit": "",
     "interstitialAdUnit": "",
     "rewardedVideoAdUnit": "",
-    "EnableOnerAds": 0,
+    "EnableOnerAds": 1,
     "AdsUrl": "",
     "ImageUrl": "",
     "Description": "",
@@ -15,7 +15,7 @@
     "ImageADS": {
         "instanceID": 0
     },
-    "EnableOnerNative": 0,
+    "EnableOnerNative": 1,
     "NativeAdsUrl": "",
     "NativeImageUrl": "",
     "NativeDescription": "",
