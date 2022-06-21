@@ -1,5 +1,5 @@
 {
-    "Virtion": "v1.0.10",
+    "Virtion": "v1.0.1",
     "OfferWellappKey": "",
     "EnableOfferWell": 1,
     "EnableAdsTestMode": 0,
@@ -7,17 +7,17 @@
     "bannerAdUnit": "",
     "interstitialAdUnit": "",
     "rewardedVideoAdUnit": "",
-    "EnableOnerAds": 0,
-    "AdsUrl": "",
-    "ImageUrl": "",
-    "Description": "",
-    "Title": "",
+    "EnableOnerAds": 1,
+    "AdsUrl": "https://raw.githubusercontent.com/saiddias068/FNF-Json/main/FNF%20Minee%20Json/More%20Game/i5.PNG",
+    "ImageUrl": "https://raw.githubusercontent.com/saiddias068/FNF-Json/main/FNF%20Minee%20Json/More%20Game/i5.PNG",
+    "Description": "DESS",
+    "Title": "TITLE",
     "ImageADS": {
         "instanceID": 0
     },
     "EnableOnerNative": 1,
-    "NativeAdsUrl": "https://raw.githubusercontent.com/saiddias068/FNF-Json/main/FNF%20Minee%20Json/More%20Game/i5.PNG",
-    "NativeImageUrl": "https://raw.githubusercontent.com/saiddias068/FNF-Json/main/FNF%20Minee%20Json/More%20Game/i5.PNG",
+    "NativeAdsUrl": "https://appgallery.huawei.com/app/C105039399",
+    "NativeImageUrl": "https://appimg2.dbankcdn.com/application/icon144/65/4affb7c1f621478b8b3eae846efb340a.png",
     "NativeDescription": "SSSSSSSSSSSSSSSSSS",
     "NativeTitle": "QQQQQQQQQQQQQQQQQQQQQQQQ",
     "NativeImageADS": {
